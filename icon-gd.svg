@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Graphic Design Icon - Palette with brush -->
+  <circle cx="50" cy="50" r="45" fill="#f0f0f0" stroke="#007bff" stroke-width="2"/>
+  
+  <!-- Palette shape -->
+  <ellipse cx="40" cy="50" ry="25" rx="28" fill="none" stroke="#007bff" stroke-width="2"/>
+  
+  <!-- Color dots on palette -->
+  <circle cx="25" cy="40" r="4" fill="#ff6b6b"/>
+  <circle cx="35" cy="35" r="4" fill="#4ecdc4"/>
+  <circle cx="50" cy="32" r="4" fill="#ffd93d"/>
+  <circle cx="62" cy="38" r="4" fill="#95e1d3"/>
+  <circle cx="28" cy="58" r="4" fill="#6c5ce7"/>
+  <circle cx="48" cy="65" r="4" fill="#a29bfe"/>
+  
+  <!-- Brush handle -->
+  <rect x="68" y="32" width="8" height="28" fill="#8b7355" rx="2"/>
+  
+  <!-- Brush bristles -->
+  <circle cx="72" cy="30" r="6" fill="#d4a574" opacity="0.8"/>
+</svg>
